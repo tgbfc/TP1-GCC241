@@ -406,4 +406,4 @@ INSERIR LINK AQUI
 
 Este projeto foi desenvolvido para fins didáticos na disciplina GCC241 — Introdução à Computação.
 
-Todos os algoritmos de conversão foram implementados manualmente conforme exigido no enunciado.
+Todos os algoritmos de conversão foram implementados manualmente conforme exigido no enunciado.# pequeno ajuste
