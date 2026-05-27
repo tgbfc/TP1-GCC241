@@ -4,8 +4,8 @@ GCC241 — Introdução à Computação — 2026/1
 
 ## Integrantes
 
-- Nome 1
-- Nome 2
+- Gabriel Santos Carvalho
+- Teverson Gualberto Benfica
 
 ---
 
